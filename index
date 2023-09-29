@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jennifer Gardner</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<div class="container">
+	
+	<header>
+		<h1>Jennifer R. Gardner</h1>
+		<p>Web Developer | Designer</p>
+	</header>
+	
+<nav>
+	<ul>
+	<li><a href="#">About</a></li>
+		<li><a href="#">Portfolio</a></li>
+			<li><a href="#">Contact</a></li>
+	</ul>	
+		
+</nav>
+		<div class="thumbnail-row">
+			<div class="thumbnail">
+			<a class="thumbnail-link" href="images/phpLoginForm.jpg">
+				<img class="thumbnail-image" src="images/phpLoginForm.jpg" alt="Login">
+				<p>Login Form</p></a>
+			</div>
+			
+			<div class="thumbnail">
+			<a class="thumbnail-link" href="images/FormTemplate Small.jpeg">
+				<img class="thumbnail-image" src="images/phpFormTemplate.jpg" alt="Multiple Option Form">
+				<p>Multiple Option Form Template</p></a>
+			</div>
+			
+			<div class="thumbnail">
+			<a class="thumbnail-link" href="images/phpTableDesignDisplay.jpg">
+				<img class="thumbnail-image" src="images/phpTableDesignDisplay.jpg" alt="Table Generator">
+				<p>DataTable Generator</p></a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
